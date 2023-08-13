@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
-<h3 align="center">a computer engineer from Turkey</h3>
+<h3 align="center">A Computer Engineer from Turkey</h3>
 
 - 📫 How to reach me **onruzn61@gmail.com**
 
